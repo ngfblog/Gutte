@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/ngfblog/Gutte/blob/main/gutte.png)
+<img src="[http://url/image.png](https://github.com/ngfblog/Gutte/blob/main/gutte.png)" height="300" width="300" >
 
 # Gutte.github.io
 Convert text written in English according to Hebrew keyboard layout
